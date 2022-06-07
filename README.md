@@ -12,3 +12,9 @@ Following topics are covered:
 **- Adversarial Search**
   1. MinMax Algorithm
   2. Alpha-beta pruning
+
+**– Logic and reasoning**
+  1. First Order Logic (FOL)
+  2. Conjunctive Normal Forms (CNF)
+
+**- Neural networks and classification**
